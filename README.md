@@ -8,5 +8,6 @@ gitdemo 用於測試刪除某些不可描述的歷史
             - git push origin master
         - if you've already pushed to github
             - git push -f origin master
+                - *there will be no history on github*
         
         
